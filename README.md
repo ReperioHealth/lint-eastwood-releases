@@ -1,0 +1,1 @@
+Lint Eastwood release binaries.
